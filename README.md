@@ -14,7 +14,7 @@ Successfully deployed and configured advanced firewall systems using OpnSense an
 Proficiently managed multiple virtualization environments, including Hyper-V Manager and VirtualBox, optimizing resource allocation and system efficiency.
 Demonstrated expertise in containerization technologies with Docker and Kasm, streamlining application deployment and isolation processes.
 
-###Cloud Infrastructure Deployment:
+### Cloud Infrastructure Deployment:
 Spearheaded the development of a sophisticated test lab using VM servers on Linode’s cloud platform, showcasing my ability to integrate cloud technologies in cybersecurity initiatives.
 
 ### 🤔 Core Competencies:
