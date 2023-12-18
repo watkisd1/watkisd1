@@ -35,10 +35,7 @@ Implementing a Proxmox server to house my local Kasm containers for more testing
 watkisd@gmail.com
 
 ### Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-### Tools And Tech
 <div align="center">
 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/></code>
@@ -67,7 +64,6 @@ watkisd@gmail.com
 
 </div>
 
-![alt text](URL_to_image "Title")
 
 <!-- Add more badges from https://shields.io/ -->
 
