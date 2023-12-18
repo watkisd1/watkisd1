@@ -34,6 +34,14 @@ Implementing a Proxmox server to house my local Kasm containers for more testing
 ### 📫 How to reach me: 
 watkisd@gmail.com
 
+### Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watkisd1&layout=compact)
+
+<!-- Add more badges from https://shields.io/ -->
+
+
 <!--
 **watkisd1/watkisd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
