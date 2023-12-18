@@ -1,4 +1,4 @@
-### Hi there, I'm Devon Cybersecurity Specialist | Scrum Master | OT Project Manager 👋
+### Hi there, I'm Devon: Cybersecurity Specialist | Scrum Master | OT Project Manager 👋
 
 I'm a Cybersecurity Specialist driven by a passion for safeguarding the digital world. With a blend of technical expertise and a keen eye for detail, I navigate the intricate world of information security to protect against ever-evolving cyber threats.
 
