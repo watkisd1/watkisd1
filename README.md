@@ -1,3 +1,5 @@
+ <img src="https://github.com/watkisd1/watkisd1/assets/44819896/95588574-a3e5-42cc-8e92-cd363e2e7b74" width="400" alt="Banner">
+
 ### Hi there, I'm Devon: Cybersecurity Specialist | Scrum Master | IT Project Manager 👋
 
 I'm a Cybersecurity Specialist driven by a passion for safeguarding the digital world. With a blend of technical expertise and a keen eye for detail, I navigate the intricate world of information security to protect against ever-evolving cyber threats.
