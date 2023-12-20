@@ -39,7 +39,7 @@ watkisd@gmail.com
 
 
 
-
+<div style="display: flex; justify-content: space-around;">
  <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="100" alt="Vim"> 
  <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" width="100" alt="Eclipse"> 
  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="100" alt="Jupyter">
@@ -48,9 +48,10 @@ watkisd@gmail.com
  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="100" alt="docker">
  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" width="100" alt="Selenium">
  <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="100" alt="Window">
- (https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png)
- (https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png)
- (https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png)
+ <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="100" alt="Jira">
+ <img src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" width="100" alt="Wordpress">
+<img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="100" alt="Swagger">
+ </div>
 
 <!-- <img src="https://your-image-url.type" width="100" height="100"> -->
 <!-- Add more badges from https://shields.io/ -->
