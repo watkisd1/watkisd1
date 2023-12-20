@@ -32,7 +32,10 @@ Experienced in deploying and securing cloud-based infrastructures, ensuring data
 Implementing a Proxmox server to house my local Kasm containers for more testing and experimenting.
 
 
-<img src="https://github.com/watkisd1/watkisd1/assets/44819896/20fb5fa8-4eb5-4a4e-b330-90ee72a676dc" width="500" alt="Ops Center"> 
+
+<img src="https://github.com/watkisd1/watkisd1/assets/44819896/20fb5fa8-4eb5-4a4e-b330-90ee72a676dc" width="800" alt="Ops Center"> 
+
+
 
 ### 📫 How to reach me: 
 watkisd@gmail.com
