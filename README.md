@@ -40,7 +40,7 @@ watkisd@gmail.com
 ![watkisd_A_one-line_flower_minimal_sketch_on_a_white_background__580e7f86-3c36-4d4c-93ec-ee0b9cf5bdaf](https://github.com/watkisd1/watkisd1/assets/44819896/26c3ae4c-8293-41ac-8022-fd3cf52cd769)
 
 
- !{Vim}(https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png)
+ (https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png)
   https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png 
   https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png 
   https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png
